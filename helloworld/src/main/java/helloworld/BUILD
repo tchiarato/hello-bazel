@@ -1,5 +1,5 @@
 java_binary(
-    name = "hello-world",
+    name = "helloworld",
     srcs = glob(["*.java"]),
     main_class = "helloworld.HelloWorld",
     deps = [
